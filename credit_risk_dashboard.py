@@ -1,7 +1,6 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
-║      CREDIT RISK MANAGEMENT DASHBOARD — Streamlit App        ║
-║      Senior Data Scientist & Financial Analyst Build         ║
+║      CREDIT RISK MANAGEMENT DASHBOARD                        ║
 ╚══════════════════════════════════════════════════════════════╝
 
 Run with:  streamlit run credit_risk_dashboard.py
