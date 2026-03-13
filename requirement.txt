@@ -1,5 +1,1 @@
-streamlit
-pandas 
-numpy 
-plotly
-scipy
+pip install streamlit pandas numpy plotly scipy
